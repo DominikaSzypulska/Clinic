@@ -32,13 +32,13 @@ Project is created with:
 Example screenshots showing the operation of the clinic.
 
 Patient panel:
-![Patient panel](/images/patientPanel.PNG)
+![Patient panel](/images/patientPanel.png)
 
 Panel for adding a new patient:
-![Add new patient](/images/addNewPatient.PNG)
+![Add new patient](/images/addNewPatient.png)
 
 Visits management panel:
-![Visits management panel](/images/visitManagement.PNG)
+![Visits management panel](/images/visitManagement.png)
 
 ## Setup
 To run this project locally on your home computer, you need to install the free XAMPP application. 
