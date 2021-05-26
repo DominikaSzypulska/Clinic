@@ -19,6 +19,7 @@ The project was created for the needs of the classes.
 Project is created with:
 - PhpStorm version: 2021.1.1.
 - PHP version: 8.0.3
+- MySQL
 
 ## Features
 - The patient can create an account and log in
