@@ -126,3 +126,4 @@ Project is: *in progress*.
 
 ## Contact
 Created by [Dominika Szypulska](https://github.com/DominikaSzypulska).
+e-mail: dominikaszypulska@onet.pl -feel free to contact me!
