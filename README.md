@@ -25,7 +25,7 @@ Project is created with:
 - Admin can add and remove patients, doctors and visits
 
 **To Do:**
-- After logging in, the patient may add or decline an appointment
+- After logging in, the patient may add or refuse an appointment
 - The patient receives an e-mail after making an appointment
 
 ## Screenshots
@@ -45,7 +45,7 @@ To run this project locally on your home computer, you need to install the free 
 You can download XAMPP [here](http://www.apachefriends.org/en/xampp-windows.html#641). 
 After correct installation, launch the XAMPP control panel. 
 Here you need to enable Apache and MySQL server by clicking "Start" in the Actions column. 
-You should also have a database that can be created via *localhost/phpmyadmin*. 
+You should also have a database MySQL that can be created via *localhost/phpmyadmin*. 
 Then put the project folder in *xampp/htdocs* and run in your browser by typing *localhost/clinic/login.php*.
 
 ## Status
